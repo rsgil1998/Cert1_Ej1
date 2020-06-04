@@ -1,0 +1,11 @@
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\BEUEj1.dll.config
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\BEUEj1.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\BEUEj1.pdb
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\EntityFramework.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\EntityFramework.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\obj\Debug\BEUEj1.csprojAssemblyReference.cache
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\obj\Debug\BEUEj1.csproj.CopyComplete
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\obj\Debug\BEUEj1.dll
+C:\Users\santi\Desktop\Universidad\Sexto nivel\Certificacion 1\EjerciciosEnClase\Cert1_Ej1\BEUEj1\obj\Debug\BEUEj1.pdb
